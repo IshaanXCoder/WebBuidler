@@ -16,7 +16,9 @@ Our project is an AI-powered tool that allows users to create a fully functional
 - **Deployment:** Vercel
 ## 👥 Built By :
 - **[Ishaan Kesarwani](https://github.com/IshaanXCoder)**
+- **[Sachit Bansal](https://github.com/sachitbansal)**
 - **[Ansh Karwasra](https://github.com/anshkarwasra)**
+  
 
 
 
@@ -68,7 +70,8 @@ Our project is an AI-powered tool that allows users to create a fully functional
 
 
 ## 🎥 Videos
-*(Embed or link demonstration videos here)*
+[*(Video)*
+](https://drive.google.com/file/d/1PDiHKcncx9lvzauB5xLofJpOY9Heyv6S/view?usp=drive_link)
 
 ## Future Enhancements and Scope
 
